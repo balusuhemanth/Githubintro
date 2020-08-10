@@ -1,6 +1,4 @@
-## Pair of functions that cache the inverse of a matrix
-## Usage: Pass the result of a makeCacheMatrix call to cacheSolve 
-
+## Pair of functions that cache the inverse of a matri
 #' Util function that set the matrix and the inverse in an environment
 #' @param x an invertible matrix
 #' examples
